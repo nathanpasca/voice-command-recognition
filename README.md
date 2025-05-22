@@ -69,7 +69,7 @@ Predicted command: yes with 98.82% confidence
 - **Performance**: The model’s accuracy depends on the quality and diversity of the dataset. For production use, additional data augmentation and noise handling may be required.
 
 ## Academic Disclaimer
-This project was developed as part of an academic assignment in Machine Learning. While it demonstrates audio classification concepts, it may require additional robustness, error handling, and optimization for production use.
+This project was developed as part of an academic mid project in Voice and Image Recognition. While it demonstrates audio classification concepts, it may require additional robustness, error handling, and optimization for production use.
 
 ## Acknowledgments
 - [TensorFlow](https://www.tensorflow.org/)
